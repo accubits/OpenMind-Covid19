@@ -1,1 +1,0 @@
-# OpenMind-Covid19
